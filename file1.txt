@@ -1,4 +1,5 @@
 
 hello!
 there!
-world!
+conflict!
+modification after conflict1(made by A)

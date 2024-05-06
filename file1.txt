@@ -2,3 +2,4 @@
 hello!
 there!
 conflict!
+modification after conflict1(made by A)

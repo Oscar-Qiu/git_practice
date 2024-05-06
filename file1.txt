@@ -2,3 +2,4 @@
 hello!
 there!
 conflict!
+second conflict made by B
